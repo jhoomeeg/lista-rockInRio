@@ -1,4 +1,4 @@
-#lista-musicas
+#Lista de Musicas
 
 Projeto construido para uma listagem de Atrações que gosto.
 
